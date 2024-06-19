@@ -1,5 +1,38 @@
 # ChatGPT-like app with your data using Azure OpenAI and Azure AI Search (Python)
+# Project Name
 
+## Description
+
+This is a project that...
+
+## Installation
+
+To install this project, follow these steps:
+
+1. Clone the repository.
+2. Run `npm install` to install the dependencies.
+3. ...
+
+## Usage
+
+To use this project, follow these steps:
+
+1. ...
+2. ...
+3. ...
+
+## Contributing
+
+If you would like to contribute to this project, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 This solution's backend is written in Python. There are also [**JavaScript**](https://aka.ms/azai/js/code), [**.NET**](https://aka.ms/azai/net/code), and [**Java**](https://aka.ms/azai/java/code) samples based on this one. Learn more about [developing AI apps using Azure AI Services](https://aka.ms/azai).
 
 ## Table of Contents
